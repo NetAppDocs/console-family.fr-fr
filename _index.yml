@@ -1,0 +1,101 @@
+---
+product-family:
+  title: Documentation de la console NetApp
+  lead: La console NetApp fournit une gestion centralisée des services de stockage
+    et de données dans les environnements sur site et dans le cloud. Il offre un contrôle
+    unifié, une simplicité opérationnelle et une gestion sécurisée.  Parcourez la
+    documentation par fonctionnalité ou utilisez la recherche pour trouver du contenu.
+  summary: La console NetApp fournit une gestion centralisée des services de stockage
+    et de données dans les environnements sur site et dans le cloud. Il offre un contrôle
+    unifié, une simplicité opérationnelle et une gestion sécurisée.  Parcourez la
+    documentation par fonctionnalité ou utilisez la recherche pour trouver du contenu.
+  sidebarlinks:
+  - title: Tous
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: Agents
+    tags: agents
+  - title: Administration
+    tags: console
+  - title: Gouvernance
+    tags: governance
+  - title: Santé
+    tags: health
+  - title: Mobilité
+    tags: data services
+  - title: Protection
+    tags: data services
+  - title: Stockage
+    tags: storage
+  - title: Charges de travail
+    tags: data services
+  tiles:
+  - title: Installation et administration
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: Découvrez comment commencer à utiliser la console NetApp , notamment
+      la configuration de la gestion des accès et des agents.
+    tags: all, console, agents
+  - title: Services de données NetApp
+    icon: "./media/icon-backup.png"
+    url: "../data-services-family/index.html"
+    summary: Protégez et sécurisez votre infrastructure de stockage.
+    tags: all,health, data services
+  - title: Gestion du stockage
+    icon: "./media/icon-onprem.png"
+    url: "../storage-management-family/index.html"
+    summary: Gestion centralisée pour le stockage sur site et dans le cloud.
+    tags: all,storage
+  - title: Notes de version
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: Découvrez les nouveautés de la plateforme NetApp Console et des services
+      de données.
+    tags: all
+  - title: API
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/console-automation/index.html
+    summary: Administrez par programmation vos ressources basées sur le cloud.
+    tags: all,api
+  - title: Centre d'automatisation
+    icon: "./media/icon-automation.png"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    summary: Utilisez des solutions scriptées pour automatiser le déploiement et l’intégration
+      des produits et services NetApp .
+    tags: all,governance
+  - title: Conseiller numérique (Active IQ)
+    icon: "./media/icon-activeiq.png"
+    url: "../active-iq/index.html"
+    tags: all,health
+    summary: Des renseignements exploitables pour une santé de stockage optimale.
+  - title: Licences et abonnements
+    icon: "./media/icon-digital-wallet.png"
+    url: "../console-licenses-subscriptions/index.html"
+    tags: all,console
+    summary: Gérez et surveillez vos licences et abonnements.
+  - title: Planification du cycle de vie
+    icon: "./media/icon-economic-efficiency.png"
+    url: "../console-lifecycle-planning/index.html"
+    summary: Recevez des recommandations pour les systèmes approchant les limites
+      de capacité et les systèmes approchant la fin de leur durée de vie.
+    tags: all,storage
+  - title: Mises à jour logicielles
+    icon: "./media/icon-software-updates.png"
+    url: "../console-software-updates/index.html"
+    summary: Automatisez l’évaluation, la planification et l’exécution des mises à
+      niveau ONTAP .
+    tags: all,health, storage
+  - title: Alertes du système de stockage
+    icon: "./media/icon-alerts.png"
+    url: "../console-alerts/index.html"
+    summary: Affichez et agissez sur les alertes système en temps réel pour les systèmes
+      ONTAP sur site.
+    tags: all,storage
+  - title: Durabilité
+    icon: "./media/icon-sustainability.png"
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
+    summary: Surveiller l’impact environnemental des systèmes pour atteindre les objectifs
+      de durabilité.
+    tags: all,health

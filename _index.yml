@@ -1,11 +1,11 @@
 ---
 product-family:
-  title: Documentation de la console NetApp
-  lead: La console NetApp fournit une gestion centralisée des services de stockage
+  title: Documentation de la NetApp Console
+  lead: La NetApp Console fournit une gestion centralisée des services de stockage
     et de données dans les environnements sur site et dans le cloud. Il offre un contrôle
     unifié, une simplicité opérationnelle et une gestion sécurisée.  Parcourez la
     documentation par fonctionnalité ou utilisez la recherche pour trouver du contenu.
-  summary: La console NetApp fournit une gestion centralisée des services de stockage
+  summary: La NetApp Console fournit une gestion centralisée des services de stockage
     et de données dans les environnements sur site et dans le cloud. Il offre un contrôle
     unifié, une simplicité opérationnelle et une gestion sécurisée.  Parcourez la
     documentation par fonctionnalité ou utilisez la recherche pour trouver du contenu.
@@ -35,10 +35,10 @@ product-family:
   - title: Installation et administration
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Découvrez comment commencer à utiliser la console NetApp , notamment
-      la configuration de la gestion des accès et des agents.
+    summary: Découvrez comment commencer à utiliser la NetApp Console, notamment la
+      configuration de la gestion des accès et des agents.
     tags: all, console, agents
-  - title: Services de données NetApp
+  - title: NetApp Data Services
     icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: Protégez et sécurisez votre infrastructure de stockage.
@@ -70,7 +70,7 @@ product-family:
     url: "../active-iq/index.html"
     tags: all,health
     summary: Des renseignements exploitables pour une santé de stockage optimale.
-  - title: Licences et abonnements
+  - title: Licenses and subscriptions
     icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
